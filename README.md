@@ -74,9 +74,9 @@ http://localhost:5173
 
 ## 🖼️ Preview
 <p align="center">
-  <img src="./assets/img1" alt="Preview do projeto" width="600">
-  <img src="./assets/img2" alt="Preview do projeto" width="600">
-  <img src="./assets/img3" alt="Preview do projeto" width="600">
+  <img src="src/assets/img1.png" alt="Preview do projeto" width="600">
+  <img src="src/assets/img2.png" alt="Preview do projeto" width="600">
+  <img src="src/assets/img3.png" alt="Preview do projeto" width="600">
 </p>
 
 📌 Objetivo do projeto
