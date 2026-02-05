@@ -79,7 +79,7 @@ nav{
 }
 
 .contactContainer{
-    background-image: url('../src/assets/fundoContato.jpg');
+    background-image: url('../assets/fundoContato.jpg');;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -127,7 +127,7 @@ nav{
     width: 100%;
 
 
-    background-image: url('../../rotas-react/src/assets/fundo.jpg');
+    background-image: url('../assets/fundo.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
