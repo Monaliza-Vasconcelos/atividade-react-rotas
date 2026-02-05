@@ -46,6 +46,9 @@ ROTAS-REACT/
 - Estilização com CSS
 - Estrutura moderna com Vite
 
+Veja o projeto online aqui: [Meu Projeto na Vercel](https://atividade-react-rotas.vercel.app/)
+
+
 ## ▶️ Como executar o projeto
 1. Clone o repositório:
 ```bash
