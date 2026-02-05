@@ -3,7 +3,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: "Poppins", sans-serif;;
+    font-family: "Poppins", sans-serif;
 }
 
 a{
@@ -50,7 +50,7 @@ nav{
 }
 
 .homeContainer{
-    background-image: url('/fundo.jpg');;
+    background-image: url('/fundo.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -79,7 +79,7 @@ nav{
 }
 
 .contactContainer{
-    background-image: url('/fundoContato.jpg');;
+    background-image: url('/fundoContato.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
