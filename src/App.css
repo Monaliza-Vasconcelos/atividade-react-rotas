@@ -120,6 +120,13 @@ nav{
         
 }
 
+.aboutContainer img{
+    width: 100%;    
+    max-width: 300px; 
+    height: auto;
+    
+}
+
 .mainAbout{
     display: flex;
     align-items: center;
@@ -148,6 +155,7 @@ nav{
     
 }
 
+
 .aboutTexto p{
     text-align: justify;
     text-align: right;
@@ -172,7 +180,7 @@ nav{
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 812px) {
     .homeContainer h2{
         font-size: 2em;
         text-align: center;
@@ -185,6 +193,7 @@ nav{
         
     }
 
+     .headerContainer 
     nav{
         justify-content: center;
     }
@@ -200,7 +209,9 @@ nav{
     }
 
     .aboutContainer img{
-        height: 200px;
+        width: 100%;    
+        max-width: 100px; 
+        height: auto;
     }
 
     .mainAbout{
@@ -232,6 +243,13 @@ nav{
         text-align: center;
         width: 100%;
     }
+
+    .headerContainer div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2px;
+    }
     
 
 }
@@ -245,4 +263,46 @@ nav{
     .contactContainer{
         font-size: 0.7em;
     }
+
+    .headerContainer div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2px;
+    }
+
+
+
+}
+
+@media (max-width: 1200px) {
+    .aboutContainer {
+        justify-content: center;
+        padding-left: 0;
+    }
+
+    .aboutContainer img{
+    width: 100%;    
+    max-width: 200px; 
+    height: auto;
+
+    
+    
+}
+
+
+}
+
+@media (max-width: 1366px) {
+    .aboutContainer {
+        justify-content: center;
+        padding-left: 0;
+    }
+
+    .aboutContainer img{
+    width: 100%;    
+    max-width: 200px; 
+    height: auto;
+    
+}
 }

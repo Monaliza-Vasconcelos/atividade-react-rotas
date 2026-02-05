@@ -4,7 +4,7 @@ import logo from "../assets/logo.png"
 const Header = () => {
     return ( 
         <header className="headerContainer">
-            <div>
+            <div className="itensHeader">
                 <img src={logo} alt="Logo da páginaa"/>
                 <h1>Wildline</h1>
             </div>
